@@ -1,0 +1,9 @@
+# PhpStorm settings
+/.idea/
+
+# Composer files
+composer.lock
+/vendor/
+
+# PHPUnit cache
+.phpunit.result.cache
